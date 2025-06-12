@@ -22,7 +22,7 @@ cmd({
     await reply("```🔍 Checking for AWAIS-MD-V3 updates...```\n");  
       
     // Get latest commit from GitHub  
-    const { data: commitData } = await axios.get("https://api.github.com/repos/Awais-star-a11y/AWAIS-MD-V3/commits/main");  
+    const { data: commitData } = await axios.get("https://api.github.com/repos/MAFIAADEEL/MAFIA-MD-V-/commits/main");  
     const latestCommitHash = commitData.sha;  
 
     // Get current commit hash  
@@ -42,7 +42,7 @@ cmd({
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
-    const { data: zipData } = await axios.get("https://github.com/Awais-star-a11y/AWAIS-MD-V3/archive/main.zip", { responseType: "arraybuffer" });  
+    const { data: zipData } = await axios.get("https://github.com/MAFIAADEEL/MAFIA-MD-V-/archive/main.zip", { responseType: "arraybuffer" });  
     fs.writeFileSync(zipPath, zipData);  
 
     await reply("```📦 Extracting the latest code...```\n");  
