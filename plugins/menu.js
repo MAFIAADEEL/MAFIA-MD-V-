@@ -16,12 +16,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let dec = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 𝑶𝑾𝑵𝑬𝑹 : *${config.BOT_NAME}*
-┃★│ 𝑩𝑨𝑰𝑳𝑬𝒀𝑺 : *Multi Device*
-┃★│ 𝑻𝒀𝑷𝑬 : *NodeJs*
-┃★│ 𝑷𝑳𝑨𝑻𝑭𝑶𝑹𝑴 : *Heroku*
-┃★│ 𝑴𝑶𝑫𝑬 : *[${config.MODE}]*
-┃★│ 𝑷𝑹𝑰𝑭𝑰𝑿 : *[${config.PREFIX}]*
-┃★│ 𝑽𝑬𝑹𝑺𝑰𝑶𝑵 : *v 2.0.0*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓* 〕━━┈⊷
@@ -56,8 +50,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -119,15 +113,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -194,15 +188,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -250,15 +244,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -306,15 +300,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -357,15 +351,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -416,15 +410,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -465,15 +459,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -518,15 +512,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -568,15 +562,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
@@ -618,15 +612,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` },
+                image: { url: `https://files.catbox.moe/7nf8cb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: '𓆩𝑨𝑾𝑨𝑰𝑺𝑿𝑫𓆪',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                         serverMessageId: 143
                     }
                 }
